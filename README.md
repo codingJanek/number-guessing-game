@@ -1,18 +1,18 @@
-Number Guessing Game
+**#Number Guessing Game#**
 
 This is a simple Java console application where the player attempts to guess a randomly generated number between 1 and 50. The program provides feedback after each guess and counts the number of attempts.
 
-Features
+**Features**
 
-Generates a random number between 1 and 50.
+- Generates a random number between 1 and 50.
 
-Provides feedback if the guess is too high or too low.
+- Provides feedback if the guess is too high or too low.
 
-Displays the total number of attempts upon guessing the correct number.
+- Displays the total number of attempts upon guessing the correct number.
 
-How to Run the Program
+**How to Run the Program**
 
-Prerequisites
+**Prerequisites**
 
 Ensure you have Java installed on your machine (minimum version 8).
 
