@@ -74,18 +74,15 @@ Follow the on-screen prompts to input your guesses.
 
 Gebe eine Zahl zwischen 1 und 50 ein: 25
 
-
 Deine Zahl ist zu klein!
 
 
 Gebe eine Zahl zwischen 1 und 50 ein: 40
 
-
 Deine Zahl ist zu groß!
 
 
 Gebe eine Zahl zwischen 1 und 50 ein: 30
-
 
 Richtig geraten. Du hast 3 Versuche gebraucht
 
